@@ -1,1 +1,0 @@
-function fn(o,l){console.log(333);var n=180.5;console.log(o),console.log(l),console.log(n)}console.log(222),console.log(111);for(var i=0;i<10;i++)console.log(i);
